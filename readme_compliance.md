@@ -76,7 +76,7 @@ Read more in [Compliance protocol](https://www.stellar.org/developers/learn/inte
 
 #### Response
 
-Returns [Auth response](https://www.stellar.org/developers/learn/integration-guides/compliance-protocol.html#reply).
+Returns [Auth response](https://www.stellar.org/developers/guides/compliance-protocol.html#response).
 
 ### POST :internal_port/send
 
